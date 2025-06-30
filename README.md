@@ -50,7 +50,7 @@ A machine learning model for classifying spam messages without using external ML
 
 ---
 
-### 🔹 [House Price Predictor](https://github.com/ayushrajputt15/house-price-predictor)  
+### 🔹 [House Price Predictor](https://github.com/ayushrajputt15/house-price-prediction)  
 A linear regression model built from scratch to predict housing prices based on area.  
 ✔️ Implemented cost computation, optimization, and data scaling  
 ✔️ Visualized predictions using `Matplotlib`  
