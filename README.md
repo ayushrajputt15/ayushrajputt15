@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ayush Rajput 👋</h1>
 <p align="center">
   Aspiring Machine Learning Engineer & Web Developer<br>
-  Passionate about building real-world solutions from scratch
+  Passionate about building real-world solutions
 </p>
 
 ---
