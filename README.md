@@ -35,7 +35,7 @@
 
 ## 💻 Projects
 
-### 🔹 [Fortune Control – Financial Portal](https://github.com/your-username/fortune-control)  
+### 🔹 [Fortune Control – Financial Portal](https://github.com/ayushrajputt15/fortune-control)  
 A responsive full-stack web application for financial updates and user accounts.  
 ✔️ Integrated Firebase Auth (Email/Google) and Firestore DB  
 ✔️ Pulled live business headlines via NewsAPI  
@@ -43,14 +43,14 @@ A responsive full-stack web application for financial updates and user accounts.
 
 ---
 
-### 🔹 [Spam Detection (from Scratch)](https://github.com/your-username/spam-detection)  
+### 🔹 [Spam Detection (from Scratch)](https://github.com/ayushrajputt15/spam-detection)  
 A machine learning model for classifying spam messages without using external ML libraries.  
 ✔️ Implemented custom Bag-of-Words, logistic regression, and gradient descent  
 ✔️ Achieved **97% accuracy** on real-world SMS spam dataset  
 
 ---
 
-### 🔹 [House Price Predictor](https://github.com/your-username/house-price-predictor)  
+### 🔹 [House Price Predictor](https://github.com/ayushrajputt15/house-price-predictor)  
 A linear regression model built from scratch to predict housing prices based on area.  
 ✔️ Implemented cost computation, optimization, and data scaling  
 ✔️ Visualized predictions using `Matplotlib`  
