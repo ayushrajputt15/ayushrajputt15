@@ -1,16 +1,16 @@
 <h1 align="center">Hi there, I'm Ayush Rajput 👋</h1>
 <p align="center">
-  Aspiring Machine Learning Engineer & Web Developer<br>
-  Passionate about building real-world solutions
+  Passionate about Machine Learning & Web Development<br>
+  Exploring real-world solutions through code and continuous learning
 </p>
 
 ---
 
 ## 💼 About Me
 
-- 🧠 Strong foundation in core machine learning algorithms  
-- 🛠️ Build intelligent systems using Python and deep learning frameworks  
-- 🌐 Develop responsive and functional web apps with real-time integrations  
+- 🧠 Building a strong foundation in core machine learning algorithms  
+- 🛠️ Creating intelligent systems using Python and modern ML frameworks  
+- 🌐 Developing responsive web applications with real-time capabilities  
 - 📚 Continuously learning through hands-on projects and online specializations  
 
 ---
@@ -22,7 +22,7 @@
 
 **Machine Learning & Data Science:**  
 `Linear Regression` `Logistic Regression` `Gradient Descent` `Bag-of-Words`  
-`TensorFlow / Keras` `NumPy` `Pandas` `Matplotlib`
+`TensorFlow / Keras` `NumPy` `Pandas` `Matplotlib` `XGBoost`
 
 **Web Development:**  
 `Firebase Authentication` `Firestore DB` `Bootstrap` `DOM Manipulation`  
@@ -35,11 +35,11 @@
 
 ## 💻 Projects
 
-### 🔹 [Fortune Control – Financial Portal](https://github.com/ayushrajputt15/fortune-control)  
-A responsive full-stack web application for financial updates and user accounts.  
-✔️ Integrated Firebase Auth (Email/Google) and Firestore DB  
-✔️ Pulled live business headlines via NewsAPI  
-✔️ Built a clean dashboard UI using Bootstrap and custom CSS  
+### 🔹 [Customer Churn Prediction (XGBoost)](https://github.com/ayushrajputt15/customer-churn-xgboost)  
+A machine learning project using XGBoost to predict customer churn from bank data.  
+✔️ Preprocessed real-world data with one-hot encoding & scaling  
+✔️ Trained an XGBoost classifier achieving **~85% accuracy**  
+✔️ Visualized actual vs predicted churn and feature importance  
 
 ---
 
@@ -54,6 +54,14 @@ A machine learning model for classifying spam messages without using external ML
 A linear regression model built from scratch to predict housing prices based on area.  
 ✔️ Implemented cost computation, optimization, and data scaling  
 ✔️ Visualized predictions using `Matplotlib`  
+
+---
+
+### 🔹 [Fortune Control – Financial Portal](https://github.com/ayushrajputt15/fortune-control)  
+A responsive full-stack web application for financial updates and user accounts.  
+✔️ Integrated Firebase Auth (Email/Google) and Firestore DB  
+✔️ Pulled live business headlines via NewsAPI  
+✔️ Built a clean dashboard UI using Bootstrap and custom CSS  
 
 ---
 
