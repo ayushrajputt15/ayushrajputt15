@@ -35,7 +35,7 @@
 
 ## 💻 Projects
 
-### 🔹 [Customer Churn Prediction (XGBoost)](https://github.com/ayushrajputt15/customer-churn-xgboost)  
+### 🔹 [Customer Churn Prediction](https://github.com/ayushrajputt15/Customer-Churn-Prediction)  
 A machine learning project using XGBoost to predict customer churn from bank data.  
 ✔️ Preprocessed real-world data with one-hot encoding & scaling  
 ✔️ Trained an XGBoost classifier achieving **~85% accuracy**  
