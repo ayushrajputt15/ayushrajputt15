@@ -1,88 +1,70 @@
 <h1 align="center">Hi, I'm Ayush Rajput 👋</h1>
 
 <p align="center">
-  <b>Computer Science Undergraduate | ML & DSA Enthusiast</b><br>
-  Focused on building strong fundamentals and real-world machine learning systems
+  <b>Computer Science & Data Science Undergraduate | MLOps & DSA Enthusiast</b><br>
+  Building production-ready Machine Learning systems from the ground up.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayushrajputt"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ayush.15.rajputt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/ayushrajputt15/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science undergraduate specializing in **Data Science**
-- 🧠 Strong interest in **Machine Learning algorithms and optimization**
-- 🧩 Passionate about **Data Structures & Algorithms**
-- 🛠️ Experienced in building ML models **from scratch**
-- 📚 Continuously learning through projects, problem solving, and certifications
+- 🎓 **B.Tech in CSE (Data Science)** at Ajay Kumar Garg Engineering College
+- 🧠 Specialist in **Deep Learning pipelines** and **Matrix Factorization**
+- 🐳 Focused on **MLOps**: Deploying scalable **Dockerized APIs** via **FastAPI**
+- 🧩 **300+ Problems Solved** across LeetCode, CodeChef, and HackerRank
+- 🛠️ **Current Focus**: Enhancing model explainability using **Grad-CAM**
 
 ---
 
-## 🧰 Technical Skills
+## 🧰 Technical Stack
 
 ### 👨‍💻 Languages
-`Python` `Java` `C` `SQL`
+`Python` `Java` `SQL` `C`
 
-### 📊 Machine Learning & Data Science
-`Collaborative Filtering`  
-`Linear & Logistic Regression`  
-`Gradient Descent`  
-`Convolutional Neural Networks (CNNs)`  
-`NumPy` `Pandas` `Matplotlib`  
-`Scikit-learn` `TensorFlow`
+### 📊 Machine Learning & MLOps
+`TensorFlow` `Keras` `Scikit-learn` `FastAPI` `Docker` `Hugging Face`
+`EfficientNetV2S` `Grad-CAM` `Collaborative Filtering` `Matrix Factorization`
 
 ### 🧩 Problem Solving
-- Solved **250+ DSA problems** on LeetCode  
-- Strong focus on arrays, strings, hashing, recursion, and basic DP  
-- Primary language: **Java**
-
-### 🛠 Tools
-`Git & GitHub` `VS Code`  
-`Jupyter Notebook` `Google Colab`
+- **300+ Algorithmic Problems** solved
+- Primary language for DSA: **Java**
 
 ---
 
 ## 💻 Featured Projects
 
-### ⭐ Movie Recommendation System (Collaborative Filtering)
-🔗 https://github.com/ayushrajputt15/Movie-Recommendation-System  
+### 🐄 Cattle & Buffalo Breed Classification (End-to-End API)
+🔗 [GitHub Repo](https://github.com/ayushrajputt15/Cattle-Breed-Classifier-API) | 🚀 [Live API Demo](https://ayushrajputt15-cattle-breed-classifier-api.hf.space/docs)
 
-- Implemented a **movie recommender system from scratch** using collaborative filtering in NumPy
-- Optimized training with vectorized cost and gradient descent
-- Achieved **validation RMSE of 0.98**
-- Built a **Streamlit-based interface** to generate personalized Top-10 recommendations
+- Developed a SOTA **EfficientNetV2S** model to classify 41 breeds with **85% accuracy**.
+- **Deployment**: Containerized with **Docker** and served via **FastAPI**.
+- **Explainability**: Integrated **Grad-CAM** to visualize feature-importance mapping.
 
----
+### ⭐ Movie Recommendation Engine (Collaborative Filtering)
+🔗 [GitHub Repo](https://github.com/ayushrajputt15/Movie-Recommendation-System)
 
-### 🐄 Image-Based Breed Recognition for Cattle and Buffaloes
-
-- Built a **CNN-based deep learning model** to classify indigenous Indian cattle and buffalo breeds
-- Created a **custom dataset** using web scraping and data augmentation
-- Applied **Grad-CAM** to provide explainability for model predictions
-
----
+- Built a recommendation engine **from scratch** using Matrix Factorization in **NumPy**.
+- Optimized training with custom **Gradient Descent** and **L2 Regularization**.
+- Achieved a highly accurate validation **RMSE of 0.97**.
 
 ### 🔐 Credit Card Fraud Detection
-🔗 https://github.com/ayushrajputt15/Credit-Card-Fraud-Detection  
+🔗 [GitHub Repo](https://github.com/ayushrajputt15/Credit-Card-Fraud-Detection)
 
-- Developed ML models to detect fraudulent transactions on **highly imbalanced data**
-- Trained and evaluated **Logistic Regression, Decision Tree, and Random Forest**
-- Used **ROC-AUC, precision, recall, and confusion matrix** for evaluation
-
----
+- Developed ML models to detect fraudulent transactions on **highly imbalanced data**.
+- Evaluated **Logistic Regression and Random Forest** using **ROC-AUC and Precision-Recall** metrics.
 
 ### 💰 Fortune Control – Personal Finance Tracker
-🔗 https://github.com/ayushrajputt15/fortune-control  
+🔗 [GitHub Repo](https://github.com/ayushrajputt15/fortune-control)
 
-- Built a secure budgeting application with **Firebase Authentication and Firestore**
-- Integrated **NewsAPI** for real-time financial and economic updates
-- Focused on backend logic, data handling, and system integration
-
----
-
-## 📈 Problem Solving
-
-- 🧩 Solved **250+ algorithmic problems** on LeetCode  
-- 🔗 LeetCode: https://leetcode.com/u/ayushrajputt15/
+- Built a secure budgeting application with **Firebase Authentication and Firestore**.
+- Integrated **NewsAPI** for real-time financial updates and focused on secure backend logic.
 
 ---
 
@@ -94,15 +76,10 @@
 
 ---
 
-## 📫 Connect With Me
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/ayushrajputt/
-- 📧 Email: ayush.15.rajputt@gmail.com
-- 🧩 LeetCode: https://leetcode.com/u/ayushrajputt15/
-- 💻 GitHub: https://github.com/ayushrajputt15
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushrajputt15&show_icons=true&theme=radical" alt="Ayush's GitHub Stats" />
+</p>
 
 <p align="center">
-  <i>Building strong fundamentals. One problem at a time.</i> 🚀
+  <i>"Building strong fundamentals. One deployment at a time."</i> 🚀
 </p>
