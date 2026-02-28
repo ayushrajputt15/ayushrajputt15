@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Ayush Rajput 👋</h1>
 
 <p align="center">
-  <b>Computer Science & Data Science Undergraduate | MLOps & DSA Enthusiast</b><br>
-  Building production-ready Machine Learning systems from the ground up.
+  <b>Computer Science & Data Science Undergraduate </b><br>
+  Bridging the gap between Machine Learning research and scalable production software.
 </p>
 
 <p align="center">
@@ -15,55 +15,57 @@
 ## 🚀 About Me
 
 - 🎓 **B.Tech in CSE (Data Science)** at Ajay Kumar Garg Engineering College
-- 🧠 Specialist in **Deep Learning pipelines** and **Matrix Factorization**
+- 🧠 Specialist in **End-to-End Deep Learning pipelines** and **Collaborative Filtering**
 - 🐳 Focused on **MLOps**: Deploying scalable **Dockerized APIs** via **FastAPI**
-- 🧩 **300+ Problems Solved** across LeetCode, CodeChef, and HackerRank
-- 🛠️ **Current Focus**: Enhancing model explainability using **Grad-CAM**
+- 🛠️ **Current Focus**: Enhancing model explainability and interpretability using **Grad-CAM**
+- 📈 Passionate about translating complex data into **actionable software insights**
 
 ---
 
 ## 🧰 Technical Stack
 
-### 👨‍💻 Languages
-`Python` `Java` `SQL` `C`
+### 👨‍💻 Engineering Languages
+`Python (Advanced)` `Java` `SQL` `C`
 
 ### 📊 Machine Learning & MLOps
 `TensorFlow` `Keras` `Scikit-learn` `FastAPI` `Docker` `Hugging Face`
 `EfficientNetV2S` `Grad-CAM` `Collaborative Filtering` `Matrix Factorization`
 
-### 🧩 Problem Solving
-- **300+ Algorithmic Problems** solved
-- Primary language for DSA: **Java**
+### 🛠️ Tools & Infrastructure
+`Git & GitHub` `Firebase (Auth & Firestore)` `RESTful APIs`
+`Jupyter Notebook` `Google Colab` `VS Code`
 
 ---
 
-## 💻 Featured Projects
+## 💻 Featured Development Projects
 
 ### 🐄 Cattle & Buffalo Breed Classification (End-to-End API)
 🔗 [GitHub Repo](https://github.com/ayushrajputt15/Cattle-Breed-Classifier-API) | 🚀 [Live API Demo](https://ayushrajputt15-cattle-breed-classifier-api.hf.space/docs)
 
 - Developed a SOTA **EfficientNetV2S** model to classify 41 breeds with **85% accuracy**.
-- **Deployment**: Containerized with **Docker** and served via **FastAPI**.
+- **Deployment**: Containerized the inference engine with **Docker** and served via **FastAPI**.
 - **Explainability**: Integrated **Grad-CAM** to visualize feature-importance mapping.
+
+
 
 ### ⭐ Movie Recommendation Engine (Collaborative Filtering)
 🔗 [GitHub Repo](https://github.com/ayushrajputt15/Movie-Recommendation-System)
 
 - Built a recommendation engine **from scratch** using Matrix Factorization in **NumPy**.
 - Optimized training with custom **Gradient Descent** and **L2 Regularization**.
-- Achieved a highly accurate validation **RMSE of 0.97**.
+- Developed an automated inference pipeline to generate **Top-10 personalized recommendations**.
 
 ### 🔐 Credit Card Fraud Detection
 🔗 [GitHub Repo](https://github.com/ayushrajputt15/Credit-Card-Fraud-Detection)
 
-- Developed ML models to detect fraudulent transactions on **highly imbalanced data**.
-- Evaluated **Logistic Regression and Random Forest** using **ROC-AUC and Precision-Recall** metrics.
+- Developed ML models to detect fraudulent transactions on **highly imbalanced datasets**.
+- Evaluated **Logistic Regression and Random Forest** using ROC-AUC and Precision-Recall metrics.
 
 ### 💰 Fortune Control – Personal Finance Tracker
 🔗 [GitHub Repo](https://github.com/ayushrajputt15/fortune-control)
 
 - Built a secure budgeting application with **Firebase Authentication and Firestore**.
-- Integrated **NewsAPI** for real-time financial updates and focused on secure backend logic.
+- Integrated **NewsAPI** for real-time updates and focused on secure backend logic.
 
 ---
 
@@ -80,5 +82,5 @@
 </p>
 
 <p align="center">
-  <i>"Building strong fundamentals. One deployment at a time."</i> 🚀
+  <i>"Building robust systems. One deployment at a time."</i> 🚀
 </p>
