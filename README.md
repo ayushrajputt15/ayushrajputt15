@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Science & Data Science Undergraduate </b><br>
-  Bridging the gap between Machine Learning research and scalable production software.
+  Transforming complex Machine Learning models into scalable, real-world applications.
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 ## 🧰 Technical Stack
 
 ### 👨‍💻 Engineering Languages
-`Python (Advanced)` `Java` `SQL` `C`
+`Python` `Java` `SQL` `C`
 
 ### 📊 Machine Learning & MLOps
 `TensorFlow` `Keras` `Scikit-learn` `FastAPI` `Docker` `Hugging Face`
