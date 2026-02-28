@@ -78,9 +78,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushrajputt15&show_icons=true&theme=radical" alt="Ayush's GitHub Stats" />
-</p>
-
-<p align="center">
   <i>"Building robust systems. One deployment at a time."</i> 🚀
 </p>
