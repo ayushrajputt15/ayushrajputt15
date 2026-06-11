@@ -18,7 +18,6 @@
 - 🧠 Specialist in **AI-driven automation systems, deep learning pipelines, and building production-grade REST APIs**
 - 🤖 Recently focused on building an **autonomous LLM-powered browser agent** using Claude Sonnet 4 and Playwright
 - ⚡ Experienced in **LLM inference optimization research**, including profiling models like Qwen3.5-9B on A100 GPUs
-- 🛠️ Strong problem-solving skills with over **400+ DSA problems solved**
 
 ---
 
@@ -31,7 +30,7 @@
 `LLM Inference Optimization` `AWQ/NF4 Quantization` `vLLM` `Hugging Face Transformers` `Agentic AI`
 
 ### 📊 Machine Learning & Backend
-`Spring Boot` `FastAPI` `Node.js` `TensorFlow` `EfficientNet` `Grad-CAM` `Scikit-learn`
+`Spring Boot` `FastAPI` `TensorFlow` `EfficientNet` `Grad-CAM` `Scikit-learn`
 
 ### 🛠️ Tools & Infrastructure
 `Docker` `Playwright` `PostgreSQL` `Lightning.ai (A100)` `Git & GitHub`
